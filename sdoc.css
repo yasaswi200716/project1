@@ -76,17 +76,6 @@ section {
     box-shadow: 0 0 25px rgba(255, 255, 255, 0.2);
 }
 
-.project img, .achievement img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-    transition: transform 0.3s, opacity 0.3s;
-}
-
-.project img:hover, .achievement img:hover {
-    transform: scale(1.1);
-    opacity: 0.9;
-}
 
 .button {
     display: inline-block;
